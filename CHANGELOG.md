@@ -1,4 +1,4 @@
-# Ansible Role for GIT
+# Ansible Role for CVS
 
 ## 2.2.0 - TBC
 
