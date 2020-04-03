@@ -1,6 +1,6 @@
 # Ansible Role for CVS
 
-[![Travis](https://img.shields.io/travis/alvistack/ansible-role-cvs.svg)](https://travis-ci.org/alvistack/ansible-role-cvs)
+[![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-cvs.svg)](https://travis-ci.com/alvistack/ansible-role-cvs)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-cvs.svg)](https://github.com/alvistack/ansible-role-cvs)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-cvs.svg)](https://github.com/alvistack/ansible-role-cvs/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.cvs-blue.svg)](https://galaxy.ansible.com/alvistack/cvs)
