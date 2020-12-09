@@ -20,7 +20,7 @@
   tasks:
     - name: cvs --version
       shell: |
-        set -o pipefail
+        set -euo pipefail
         cvs --version
       args:
         executable: "/bin/bash"
