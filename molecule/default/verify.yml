@@ -19,10 +19,6 @@
   become: true
   tasks:
     - name: cvs --version
-      shell: |
-        set -euo pipefail
-        cvs --version
-      args:
-        executable: "/bin/bash"
+      command: cvs --version
       register: result
       changed_when: result is not succeeded
