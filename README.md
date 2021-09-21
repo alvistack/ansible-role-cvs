@@ -1,5 +1,7 @@
 # Ansible Role for CVS
 
+<img src="/alvistack.svg" width="75" alt="AlviStack">
+
 [![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-cvs/master)](https://gitlab.com/alvistack/ansible-role-cvs/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-cvs.svg)](https://github.com/alvistack/ansible-role-cvs/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-cvs.svg)](https://github.com/alvistack/ansible-role-cvs/blob/master/LICENSE)
