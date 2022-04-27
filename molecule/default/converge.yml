@@ -20,5 +20,5 @@
   tasks:
     - name: include role
       ansible.builtin.include_role:
-        name: cvs
-      tags: cvs
+        name: alvistack.cvs
+      tags: alvistack.cvs
